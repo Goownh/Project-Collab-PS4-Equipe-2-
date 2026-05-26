@@ -74,3 +74,4 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 /Builds
+/Plugins/CustomShapeButtonSample_UE5-6/Saved/Config/CrashReportClient
